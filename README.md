@@ -1,3 +1,5 @@
+> **⚠️ Disclaimer**: This tool is AI-generated and has not been thoroughly tested or security-reviewed. Review the code carefully before use. Use at your own risk.
+
 [**中文**](README.zh-CN.md)
 
 # Playwright Extension Bridge for Go

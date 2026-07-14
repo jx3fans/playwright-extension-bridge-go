@@ -1,3 +1,5 @@
+> **⚠️ 免责声明**：本工具由 AI 生成，尚未经过充分测试与安全审查。使用前请仔细审查代码，自行承担风险。
+
 # Playwright Extension Bridge for Go
 
 通过 [Playwright Extension](https://chromewebstore.google.com/detail/playwright-extension/mmlmfjhmonkocbjadbfplnigmagldckm) 的 CDP 桥接控制 Chromium 内核浏览器（Edge/Chrome）的 Go 库 —— 无需 Node.js、无需 Playwright 驱动、无需 `--remote-debugging-port`。
