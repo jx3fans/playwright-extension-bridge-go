@@ -1,3 +1,5 @@
+[**中文**](README.zh-CN.md)
+
 # Playwright Extension Bridge for Go
 
 A Go library that controls Chromium-based browsers (Edge, Chrome) through the [Playwright Extension](https://chromewebstore.google.com/detail/playwright-extension/mmlmfjhmonkocbjadbfplnigmagldckm) CDP bridge — no Node.js, no Playwright driver, no `--remote-debugging-port`.
